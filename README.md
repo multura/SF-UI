@@ -1,3 +1,3 @@
-![SF UI](https://img.shields.io/badge/SF%20UI%20-Version%207-8A2BE2?logo=apple)
+[![SF UI](https://img.shields.io/badge/Web-Ready-yellow?logo=css)](https://multura.github.io/SF-UI/)
 # SF UI
 Collection of Apple's SF UI font, for non-Mac users.
